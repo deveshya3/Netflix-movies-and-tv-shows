@@ -37,8 +37,5 @@ The Netflix dataset has a csv file. The dataset contains 7787 rows and 12 column
 * Data exploration
 * Data processing/cleaning
 * Similar content clustering
-# Contributing AlmaBetter team members
-|Name | Email Address |
-|---------|-----------------|
-|[Deveshya gupta]| @deveshyagupta9454@gmail.com |
+
 
