@@ -41,4 +41,4 @@ The Netflix dataset has a csv file. The dataset contains 7787 rows and 12 column
 |Name | Email Address |
 |---------|-----------------|
 |[Deveshya gupta]| @deveshyagupta9454@gmail.com |
-|[Minal kharbade]| @kharbademeenal@gmail.com |
+
